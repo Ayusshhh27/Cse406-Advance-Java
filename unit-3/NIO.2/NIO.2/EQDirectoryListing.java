@@ -1,7 +1,7 @@
 import java.io.File;
 import java.util.Arrays;
 
-public class DirectoryListing {
+public class EQDirectoryListing {
     public static void main(String[] args) {
         // Read directory path from the user
         java.util.Scanner scanner = new java.util.Scanner(System.in);
